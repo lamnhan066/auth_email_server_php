@@ -1,2 +1,2 @@
-# auth_email_server_php
+# Server For Auth Email in PHP
  Server side in PHP for auth_email
